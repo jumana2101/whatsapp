@@ -1,0 +1,70 @@
+ Inheritance
+============
+   
+     We can access one class methods to another class by using  "extends" Keyword.
+
+
+Why we go for inheritance?
+==========================
+
+     1) to reduce the memory wastage 
+
+Syntax
+======
+    public class child classname extends parent classname
+
+
+Types of inheritance 
+====================
+
+1) Single inheritance    
+2) Multiple inheritance
+3) Multilevel inheritance
+4) Hierarchical inheritance
+5) Hybrid inheritance 
+
+
+1)Single inheritance
+ ===================
+
+ Combinations of one parent class and one child class
+
+2)Multiple inheritance
+ =====================
+
+   More than one parent class access the child class parallelly at a time.
+
+    Note : Multiple inheritance is not possible in java by using extends.
+
+    Reasons
+    =======
+    1)Priority problem
+    2)Syntax error (By using extends keyword we can't access two class parallelly) 
+
+3) Multilevel inheritance
+  ========================
+
+  More than one parent accessing the child class in a tree level structure.                  
+
+4)Hierarchical inheritance
+ =========================
+
+    Combination of one parent class and more than one child class.
+
+5)Hybrid inheritance
+ ===================
+  
+   Combination of single and mutliple inheritance.
+
+
+
+
+             
+
+
+
+
+
+
+
+                                   
