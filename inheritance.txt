@@ -1,5 +1,7 @@
  Inheritance
 ============
+
+Jumana
    
      We can access one class methods to another class by using  "extends" Keyword.
 
@@ -60,6 +62,7 @@ Types of inheritance
 
 
              
+
 
 
 
